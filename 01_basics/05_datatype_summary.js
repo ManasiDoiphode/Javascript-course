@@ -43,6 +43,7 @@ let obj1 = {
     age: 22,
 }
 console.log(obj1);
+console.log(obj1.age);
 console.log(typeof(obj1));
 
 // 3. Arrays
